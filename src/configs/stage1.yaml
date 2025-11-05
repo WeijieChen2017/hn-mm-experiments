@@ -1,0 +1,8 @@
+stage: 1
+slices: 16
+img_size: 224
+batch_size: 2
+epochs: 20
+ct_encoder: vit_small_patch16_224
+lr: 3e-4
+weight_decay: 1.0e-4
